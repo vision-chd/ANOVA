@@ -78,6 +78,7 @@ Output: F_defocus and F_content.
 
 Query the statistical distribution about F-distribution to find the critical value. 
 F_defocus obeys F𝛼(r-1, r*s*(c-1)); F_content obeys F𝛼(s-1, r*s*(c-1)).
+𝛼 is the significance level. In our paper, it is set to 5%.
 
 Results: 
 if F_defocus is greater than the critical value F𝛼(r-1, r*s*(c-1)), it is considered that defocus blur has a significant impact on the focus measure. Otherwise, it has no significant impact.
